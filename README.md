@@ -2,6 +2,10 @@
 
 I'm a software developer who loves working with creative technologies. I especially enjoy the land where art 🎨 and tech ⌨️ collide.
 
+
+
+[![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackAlexRose&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Languages
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -12,8 +16,6 @@ I'm a software developer who loves working with creative technologies. I especia
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-[![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackAlexRose&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **JackAlexRose/JackAlexRose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
