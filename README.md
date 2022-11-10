@@ -1,4 +1,4 @@
-### Hey I'm Jack (or Rosey) 👋
+### Hey I'm Jack (or Rosey) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 I'm a software developer who loves working with creative technologies. I especially enjoy the land where art 🎨 and tech ⌨️ collide.
 
