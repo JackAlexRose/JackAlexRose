@@ -2,7 +2,7 @@
 
 I'm a software developer who loves working with creative technologies. I especially enjoy the land where art 🎨 and tech ⌨️ collide.
 
-
+I currently work for ClearScore <img src="https://images.easyfundraising.org.uk/retailer/cropped/logo-clearscore-1571221948.png">
 
 [![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackAlexRose&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
