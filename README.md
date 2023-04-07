@@ -6,8 +6,6 @@ I currently work for ClearScore, building their web experiences but have previou
 
 I have an MSC in Creative Technology
 
-[![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackAlexRose&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Languages
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
