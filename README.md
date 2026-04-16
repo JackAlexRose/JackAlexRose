@@ -2,7 +2,7 @@
 
 I'm a software developer who loves working with creative technologies. I especially enjoy the land where art 🎨 and tech ⌨️ collide.
 
-I currently work for Cleo, building their web experiences but have previously worked for ClearScore, and before that in CTV media streaming, music technology and security software.
+I currently work for Cloudflare, building their web experiences but have previously worked for Cleo, ClearScore, and before that in CTV media streaming, music technology and security software.
 
 I have an MSC in Creative Technology
 
